@@ -42,3 +42,23 @@ You should not edit this file.
 	
 
 
+## Todo
+
+You are requided to do the following
+1. In `main.py`, write your code in bewteen the lines `22` and `27`.
+1. When you are done, you can submit your code for automatic grading. For help click [here](#Help)
+
+## Help 
+	Helper commands used in git in the command line
+
+When you are ready to push your code to the remote repository, commit the changes to your code following this guide:
+
+&nbsp;
+
+* check the status of your local branch with remote
+in your command promp, run `git status`
+
+* add the files, run `git add .`
+* commit your changes using `git commit -m "your commit message"`
+* push your changes to the remote repo using `git push origin master`
+* if you get to this stage, `congratulations`, you are done.
